@@ -8,9 +8,9 @@ In this repository we demonstrate the power of the Python Programming Language w
 
 ### Exercises
 
-* [Chapter 3 - Financial Statement Analysis & Models](Chapter_3_Analysis_and_Models.ipynb)
-* [Chapter 4 - Discounted Cash Flow Valuation](Chapter_4_Discounted_Cash_Flows.ipynb)
-* [Chapter 5 - Net Present Value and Other Investment Rules](Chapter_5_Net_Present_Value.ipynb)
+* [Financial Statement Analysis & Models](Chapter_3_Analysis_and_Models.ipynb)
+* [Discounted Cash Flow Valuation](Chapter_4_Discounted_Cash_Flows.ipynb)
+* [Net Present Value and Other Investment Rules](Chapter_5_Net_Present_Value.ipynb)
 
 
 
