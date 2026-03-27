@@ -63,19 +63,7 @@ class Time_value:
             return self.get_payment()
         return 'Something went wrong'
 
-class Xtras:
-    def __init__(self, pv, fv, rt, pmt, npr, cmp, ann, compt):
-        self.pv = pv
-        self.fv = fv
-        self.rt = rt
-        self.pmt = pmt
-        self.npr = npr
-        self.cmp = cmp # 1=Yearly, 4=Quarterly, 6=Semiannually
-        self.ann = ann # str -> end, begin
-        self.compt = compt
-
-    def __str__(self):
-            return f'{self.pv}\n{self.fv}\n{self.rt}\n{self.pmt}\n{self.npr}\n{self.cmp}'
+class Xtras(Time_value):
 
     def perpetuity(self):
         return self.pmt / self.rt
@@ -86,8 +74,6 @@ class Xtras:
     def continuous_fv(self):
         e = 2.718
         return self.pv * (e ** (self.rt * self.npr))
-
-    ### ... etc
 
 if __name__ == "__main__":
     pv = -625
