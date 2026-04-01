@@ -16,7 +16,7 @@ In this repository we demonstrate the power of the Python Programming Language w
 * [Discounted Cash Flow Valuation](2-Valuation_And_Capital_Budgeting/4-Discounted_Cash_Flows/Chapter_4_Discounted_Cash_Flows.ipynb)
 * [Net Present Value & Other Investment Rules](2-Valuation_And_Capital_Budgeting/5-Net_Present_Value/Chapter_5_Net_Present_Value.ipynb)
 * [Interest Rates & Bond Valuation](2-Valuation_And_Capital_Budgeting/8-Interest_Rates_And_Bond_Valuation/Chapter_8_Interest_Rates_and_Bond_Valuation.ipynb)
-* [Stock Valuation](2-Valuation_And_Capital_Budgeting/9-Stock_Valuation/Stock_Valuation.ipynb)
+* [Stock Valuation](2-Valuation_And_Capital_Budgeting/9-Stock_Valuation/Chapter_9_Stock_Valuation.ipynb)
 
 ## Part III - Risk
 * [Risk and Return](3-Risk/Chapter_10_Risk_And_Returns.ipynb)
